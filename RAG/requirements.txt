@@ -1,0 +1,13 @@
+numpy<2 
+pydantic<2 
+overrides 
+bcrypt 
+build 
+chroma-hnswlib==0.7.3 
+grpcio 
+importlib-resources 
+mmh3 
+orjson 
+pypika 
+tenacity 
+typer
